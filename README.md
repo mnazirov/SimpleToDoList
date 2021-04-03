@@ -3,7 +3,7 @@
 A simple task list written without storyboard and saving data to CoreData
 
 
-## Task List
+## Tasks List
 
 - [X] Writed UI layer
 - [X] Added Alert Controller
