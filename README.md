@@ -1,15 +1,15 @@
-### Description
+## Description
 
 A simple task list written without storyboard and saving data to CoreData
 
 
-### Task List
+## Task List
 
-- [X] Write UI layer
+- [X] Writed UI layer
 - [X] Added Alert Controller
-- [X] Connecting CoreData
+- [X] Connected CoreData
 
 
-### Preview
+## Preview
 
 ![Alt-текст](https://igofro.ru/image/ToDoList.gif "Орк")
